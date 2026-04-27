@@ -124,7 +124,7 @@ Self-bots are against Discord's ToS. This bot includes advanced rate-limiting an
 
 ## 📬 Contact Me
 
-Have questions, suggestions, or just want to connect? Reach out!
+**Buy via contacting us or directly buying from our website.**
 
 [![Website](https://img.shields.io/badge/Website-Bitnade-4BC51D?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bitnade.com)
 [![Discord](https://img.shields.io/badge/Discord-Bitnade-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/et8q3CZsf5)
