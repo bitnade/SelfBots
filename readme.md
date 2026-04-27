@@ -126,7 +126,7 @@ Self-bots are against Discord's ToS. This bot includes advanced rate-limiting an
 
 Have questions, suggestions, or just want to connect? Reach out!
 
-[![Discord](https://img.shields.io/badge/Discord-Prince-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Prince)
-[![GitHub](https://img.shields.io/badge/GitHub-Prince-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prince)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-
+[![Website](https://img.shields.io/badge/Website-Bitnade-4BC51D?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bitnade.com)
+[![Discord](https://img.shields.io/badge/Discord-Bitnade-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/et8q3CZsf5)
+[![GitHub](https://img.shields.io/badge/GitHub-Bitnade-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bitnade)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support@bitnade.com)
