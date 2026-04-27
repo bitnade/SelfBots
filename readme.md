@@ -119,3 +119,14 @@ A professional-grade Discord self-bot built with `discord.py-self`. Features adv
 
 ## ⚠️ Safety Warning
 Self-bots are against Discord's ToS. This bot includes advanced rate-limiting and humanized delays to minimize risk, but use it responsibly. Avoid mass-deleting thousands of messages in a single session.
+
+---
+
+## 📬 Contact Me
+
+Have questions, suggestions, or just want to connect? Reach out!
+
+[![Discord](https://img.shields.io/badge/Discord-Prince-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Prince)
+[![GitHub](https://img.shields.io/badge/GitHub-Prince-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prince)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+
